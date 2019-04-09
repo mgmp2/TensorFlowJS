@@ -1,0 +1,39 @@
+{
+  "name": "tensorFlowJS",
+  "version": "1.0.0",
+  "description": "Aprendiendo Tensor Flow",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgmp2/Boilerplate-gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "JavaScript",
+    "npm"
+  ],
+  "author": "Miriam Mendoza ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgmp2/Boilerplate-gulp/issues"
+  },
+  "homepage": "https://github.com/mgmp2/Boilerplate-gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
